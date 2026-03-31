@@ -3,7 +3,7 @@
 # 🚀 Hi, I'm Aman Yadav
 ### Full Stack Web Developer | BCA Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;React+%7C+Next.js+%7C+Node.js;BCA+Student+at+PRSU;Trained+at+Inflection+Org+Pvt+Ltd" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;BCA+Student+at+PRSU;Trained+at+Inflection+Org+Pvt+Ltd" alt="Typing SVG" />
 
 ---
 
@@ -18,7 +18,7 @@ I have completed professional Full Stack training from **Inflection Org Pvt Ltd*
 ### 🎓 Education & Training
 - 🏫 **BCA Student** | Prof. Rajendra Singh (Rajju Bhaiya) University, Prayagraj
 - 🏢 **Full Stack Web Development** | Professional Training at Inflection Org Pvt Ltd
-- 🗣️ **Languages:** Hindi (Native), English (Professional)
+- 🗣️ **Languages:** Hindi (Native), English (Intermediate)
 
 ---
 
