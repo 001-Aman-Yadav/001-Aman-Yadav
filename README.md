@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hi, I'm Aman Yadav
+#  Hi, I'm Aman Yadav
 ### Full Stack Web Developer | BCA Student
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;BCA+Student+at+PRSU;Trained+at+Inflection+Org+Pvt+Ltd" alt="Typing SVG" />
