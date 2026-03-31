@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aman Yadav</h1>
+<h1 align="center">Hi , I'm Aman Yadav</h1>
 
 <h3 align="center">
-🚀 Full Stack Web Developer | Building Modern Web Apps
+ Full Stack Web Developer | Building Modern Web Apps
 </h3>
 
 <p align="center">
@@ -20,8 +20,8 @@
 
 ## 🌍 Languages I Speak
 
-- 🇮🇳 Hindi (Fluent)
-- 🇬🇧 English (Fluent)
+ Hindi 
+ English
 
 ---
 
@@ -60,19 +60,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=001-Aman-Yadav&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=001-Aman-Yadav&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -80,10 +70,10 @@
 
 <p align="center">
   <a href="mailto:ay845790@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  
   </a>
 </p>
 
 ---
 
-⭐️ From Aman Yadav | Keep Learning 🚀
+ From Aman Yadav | Keep Learning 
