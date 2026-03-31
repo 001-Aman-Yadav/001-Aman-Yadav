@@ -18,6 +18,13 @@
 
 ---
 
+## 🌍 Languages I Speak
+
+- 🇮🇳 Hindi (Fluent)
+- 🇬🇧 English (Fluent)
+
+---
+
 ## 🧠 Technologies I Know And I Have Used
 
 ### 🚀 Programming Languages
@@ -48,16 +55,15 @@
 
 ---
 
-### 🛠 Tools & Others
+### 🛠 Tools
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Accounting](https://img.shields.io/badge/Accounting-gray?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=001-Aman-Yadav&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -65,7 +71,7 @@
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=001-Aman-Yadav&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -73,8 +79,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:ay845790@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
